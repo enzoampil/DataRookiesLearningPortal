@@ -1,4 +1,8 @@
-# Level 2: Tools for Data Science
+---
+title: "Level 2: Tools for Data Science"
+date: 2019-01-02T14:00:45Z
+draft: false
+---
 
 Here you can find links to tutorials which focus the programming languages you learned earlier towards applications in Data Science. You will find some package specific tutorials and references here, alongside some Business Intelligence (BI) Tools.
 

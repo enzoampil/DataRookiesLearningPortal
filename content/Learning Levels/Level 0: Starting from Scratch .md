@@ -1,4 +1,8 @@
-# Level 0: Starting from Scratch
+---
+title: "Level 0: Starting from Scratch"
+date: 2019-01-02T14:00:45Z
+draft: false
+---
 
 Here you can find links to overviews on Data Science and related fields. You will not get too many technical references here but it will help you build the context surrounding Data Science to help you better appreciate this domain.
 

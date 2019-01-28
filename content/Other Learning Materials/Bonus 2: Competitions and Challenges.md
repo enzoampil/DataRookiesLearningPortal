@@ -1,4 +1,8 @@
-# Bonus 2: Competitions and Challenges
+---
+title: "Bonus 2: Competitions and Challenges"
+date: 2019-01-02T14:00:45Z
+draft: false
+---
 
 Here you can find links to websites where you can participate in Data Science challenges.
 
