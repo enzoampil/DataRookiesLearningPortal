@@ -1,4 +1,8 @@
-# Level 1: Coding Basics
+---
+title: "Level 1: Coding Basics"
+date: 2019-01-02T14:00:45Z
+draft: false
+---
 
 Here you can find links to programming tutorials which you will use in your Data Science Practice. They will tend focus more on the fundamentals of the programming languages (such as syntax) and help you get comfortable with code.
 

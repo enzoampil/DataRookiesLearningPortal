@@ -1,4 +1,8 @@
-# Bonus 1: Complete Bootcamp Classes
+---
+title: "Bonus 1: Complete Bootcamp Classes"
+date: 2019-01-02T14:00:45Z
+draft: false
+---
 
 Here you can find links to end-to-end Data Science classes. While these may be more comprehensive, easier to follow, and have lots of resources, they also tend to be relatively expensive.
 
