@@ -1,2 +1,0 @@
-[build]
-    command = "./convert_README_to_index.sh; hugo"
