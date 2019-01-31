@@ -1,2 +1,2 @@
 [build]
-    command = "mv convert_README_to_index.sh | hugo"
+    command = "mv convert_README_to_index.sh ./content/_index.md | hugo"
