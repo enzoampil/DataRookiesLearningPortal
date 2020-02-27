@@ -57,3 +57,7 @@ None of us are specialists at the moment, and would like to ask you to contribut
 
 This project is definitely a work in progress and we would love to see your contributions in this. Our limited experience will limit the resources shown here, but with your help we can make this the hub for anyone who wants to learn Data Science related skills and tools!
 
+
+
+Testing versioning in gitbooks
+
